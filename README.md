@@ -1,63 +1,32 @@
 # Ryan Rowe
 
-**Software Engineer | Data Analyst | IT Support Specialist | Operations Coordinator**
+**Software Engineer | Python · Backend Systems · Data Engineering**
 
 **UC San Diego — B.S., Mathematics–Computer Science**
 
 Thousand Oaks, California · [LinkedIn](https://www.linkedin.com/in/roweboatlabs/) · [Email](mailto:roweryan22@gmail.com)
 
-I build, analyze, troubleshoot, and coordinate technical systems. My experience spans Python/PostgreSQL application development, data pipelines and statistical modeling, IT infrastructure and automated diagnostics, and technical project delivery.
+I build Python backend services, recommendation workflows and data pipelines, with experience in software delivery, infrastructure troubleshooting and engineering coordination. At Anvillent, I independently developed and deployed the Palate Pal MVP using Flask, PostgreSQL and AWS EC2, connecting Typeform submissions, SQL recommendations, GPT-4 explanations and Postmark delivery. I also built Python/pandas inventory workflows and coordinated a distributed application team. At California Machinery Movers, I developed monitoring and integrity diagnostics while resolving website and email infrastructure issues.
 
-My work connects software engineering, quantitative analysis, systems troubleshooting, and operational execution—from developing and deploying applications to resolving infrastructure failures and coordinating distributed engineering teams.
+## Software engineering projects
 
-## Selected Work
+Each repository includes its own runnable instructions, technical documentation and verification evidence. Professional context, independent public implementations and coursework are identified below.
 
-### Software Engineering
+| Project | Engineering focus and evidence |
+|---|---|
+| [Coffee Atlas](https://github.com/ryanrowe2/coffee-recommendation-prototype) | Independent Flask/SQLite demonstration developed from an earlier coffee-quiz prototype: deterministic ranking, explainable results, signed webhooks and browser-to-API workflows. Repository evidence: 265 passing tests and 95.16% application coverage. |
+| [Probabilistic Stock Trading AI](https://github.com/ryanrowe2/StockTradingAI-Project) | Team research origins, extended into a reproducible Python system for Bayesian networks, Gaussian HMMs and Q-learning. Chronological evaluation, pinned research results and 555 passing tests across five hosted CI environments are documented in the repository. |
+| [Palate Pal — Restaurant Wine Reference](https://github.com/ryanrowe2/restaurant-wine-recommendation-reference) | Independent synthetic Python reference illustrating venue-scoped catalogs, validated AI selections, durable event delivery and offline-tested adapters. The original professional MVP is described above; private employer source is withheld. Certified public baseline: 325 tests executed, one optional skip, 86% branch coverage. |
+| [Multi-Site Reliability Monitoring](https://github.com/ryanrowe2/multi-site-reliability-monitoring) | Independently written PHP demonstration grounded in my work with a 128-domain inventory and 31 Elementor installations. Stateful incidents, retryable outbox and SHA-256 integrity checks; 334 tests on each of PHP 8.2/8.3/8.4. Uses synthetic fixtures. |
+| [MNIST Logistic Optimization](https://github.com/ryanrowe2/mnist-logistic-optimization) | Reconstruction of UCSD MATH 173A coursework: NumPy logistic regression, analytic-gradient verification, numerical optimization and reproducible experiment protocols. Includes the original 2024 report and 294 offline tests; historical results and later reruns are documented separately. |
+| [SHA-256 Candidate Verification in C](https://github.com/ryanrowe2/pa2-hashing-and-passwords) | UCSD CSE 29 coursework, subsequently refactored: C11/OpenSSL verification of locally supplied candidates, defensive streaming input, fault-injection tests, sanitizers and GCC/Clang CI. Original assignment history and attribution are retained. |
 
-**Palate Pal — Personalized Recommendation Platform**
+## Architecture and engineering leadership
 
-Independently developed and deployed a wine-recommendation MVP at Anvillent using Python, Flask, PostgreSQL, and AWS EC2.
-
-- Integrated Typeform webhooks, tiered SQL recommendations across 89 wine records, GPT-4-generated explanations, and automated Postmark email delivery.
-- Built the application workflow from survey submission through database matching to personalized customer recommendations.
-
-**Onyx Coffee — Recommendation Prototype**
-
-Built a Flask prototype that matched Typeform survey responses to three coffee products, generated personalized Shopify cart links, and underwent deployment testing using AWS EC2 and Cloudflare Tunnel.
-
-### Data Analysis & Machine Learning
-
-**MNIST Digit Classification — Logistic Regression**
-
-Implemented binary digit classification using Python and NumPy. Preprocessed handwritten 4s and 9s, performed logistic-loss gradient descent over 10,000 iterations, and achieved **96% accuracy on 1,000 held-out images**.
-
-**[Probabilistic Stock Trading AI](https://github.com/ryanrowe2/StockTradingAI-Project)**
-
-Contributed to a team research project investigating stock prediction and trading policies using time-series features, Bayesian networks, hidden Markov models, and Q-learning.
-
-**Data Engineering — Palate Pal**
-
-Built Python/pandas workflows to normalize Excel wine inventories, derive availability indicators, and bulk-load 89 records into PostgreSQL. Developed SQL recommendation queries using prioritized filters, deduplication, and progressively relaxed fallback conditions.
-
-### IT Infrastructure & Technical Support
-
-**California Machinery Movers — Infrastructure Monitoring & Recovery**
-
-Developed automated monitoring and performed infrastructure troubleshooting across a multi-domain business environment.
-
-- Built PHP-based monitoring for **128 domains**, using HTTPS diagnostics, persistent state tracking, and 30-minute cron-based outage alerts.
-- Implemented version and SHA-256 integrity diagnostics for **31 Elementor websites**.
-- Restored WordPress/PHP functionality and validated customer inquiry routing.
-- Restored Microsoft Exchange access involving approximately **64,000 messages** and investigated synchronization issues across email clients and devices.
-- Diagnosed Google Workspace email delivery using DNS, MX, SPF, DKIM, DMARC, mail logs, and independent delivery tests.
-
-### Operations, Requirements & Technical Coordination
-
-**AI Classroom Assistant — Anvillent**
-
-Architected requirements for an AI-supported classroom assistant, including professor/student features, document Q&A, and AI integration workflows.
-
-Coordinated weekly sprint planning and meetings for **four India-based engineers over six weeks**.
+| Project | Scope and contribution |
+|---|---|
+| [AI Classroom Assistant](https://github.com/ryanrowe2/ai-classroom-assistant-architecture) | Anvillent architecture and leadership case study. I led product definition, MVP scope, architecture and coordination of four engineers; the team implemented the application. Reconstructed diagrams, 18 requirements and 18 synthetic acceptance scenarios are validated by documentation CI. |
+| [Parallel AI Engineering Operating System (PAOS)](https://github.com/ryanrowe2/parallel-ai-engineering-operating-system) | Human-directed AI engineering coordination toolkit and operating method: scoped handoffs, advisory SQLite reservations, evidence verification and reproducible releases. Published with its certified 222-test historical core, public supplement tests and hosted Python 3.10/3.12/3.13 checks. |
 
 ## Technical Capabilities
 
