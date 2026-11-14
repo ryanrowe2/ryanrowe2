@@ -26,7 +26,6 @@ Each repository includes its own runnable instructions, technical documentation 
 | Project | Scope and contribution |
 |---|---|
 | [AI Classroom Assistant](https://github.com/ryanrowe2/ai-classroom-assistant-architecture) | Anvillent architecture and leadership case study. I led product definition, MVP scope, architecture and coordination of four engineers; the team implemented the application. Reconstructed diagrams, 18 requirements and 18 synthetic acceptance scenarios are validated by documentation CI. |
-| [Parallel AI Engineering Operating System (PAOS)](https://github.com/ryanrowe2/parallel-ai-engineering-operating-system) | Human-directed AI engineering coordination toolkit and operating method: scoped handoffs, advisory SQLite reservations, evidence verification and reproducible releases. Published with its certified 222-test historical core, public supplement tests and hosted Python 3.10/3.12/3.13 checks. |
 
 ## Technical Capabilities
 
