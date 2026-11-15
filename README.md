@@ -6,11 +6,18 @@
 
 Thousand Oaks, California · [LinkedIn](https://www.linkedin.com/in/roweboatlabs/) · [Email](mailto:roweryan22@gmail.com)
 
-I build Python backend services, recommendation workflows and data pipelines, with experience in software delivery, infrastructure troubleshooting and engineering coordination. At Anvillent, I independently developed and deployed the Palate Pal MVP using Flask, PostgreSQL and AWS EC2, connecting Typeform submissions, SQL recommendations, GPT-4 explanations and Postmark delivery. I also built Python/pandas inventory workflows and coordinated a distributed application team. At California Machinery Movers, I developed monitoring and integrity diagnostics while resolving website and email infrastructure issues.
+I build backend applications and automation that turn messy operational problems into dependable workflows. My experience spans deployed recommendation software, website and email infrastructure troubleshooting, and technical coordination.
+
+**Selected work**
+- **Shipped a recommendation MVP:** Independently built and deployed Palate Pal with Flask, PostgreSQL and AWS EC2, integrating customer forms, catalog-grounded SQL recommendations, AI-generated explanations and email delivery.
+- **Solved operational problems:** Troubleshot WordPress/Elementor and email infrastructure at California Machinery Movers; developed monitoring and integrity diagnostics informed by that work.
+- **Connected technical and human needs:** Coordinated a four-engineer classroom-app team and delivered 400+ STEM tutoring sessions, translating complex requirements and problems into actionable next steps.
+
+**Explore the evidence:** Start with the projects below for architecture, demonstrations, reproducible tests and clear explanations of what I personally built. Public reference implementations use synthetic data where employer source is unavailable.
 
 ## Software engineering projects
 
-Each repository includes its own runnable instructions, technical documentation and verification evidence. Professional context, independent public implementations and coursework are identified below.
+Each repository includes runnable instructions and supporting evidence. Project origins and personal contributions are identified explicitly.
 
 | Project | Engineering focus and evidence |
 |---|---|
